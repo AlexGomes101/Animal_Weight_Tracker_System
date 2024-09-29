@@ -16,5 +16,33 @@ Records of daily caloric intake and minutes spent exercising play a vital role i
 ## Delete Current Organization Information.
 ![5](https://github.com/user-attachments/assets/40df60e8-eaad-468d-9fc5-99c3cbfe1274)
 
+## Add New Species.
+![6](https://github.com/user-attachments/assets/7210084c-0f14-4a89-a3af-aece70bbba28)
+
+## View All New Species.
+![7](https://github.com/user-attachments/assets/83ef4004-4973-421c-89b2-27438bfa3582)
+
+## Update Current Species Information.
+![8](https://github.com/user-attachments/assets/fdd442f7-1563-407f-8203-e1682887281a)
+
+## Delete Current Species Information.
+![9](https://github.com/user-attachments/assets/866e56e6-4440-4e32-a75d-a4cc9bb3614d)
+
+## View All Meal Information.
+![10](https://github.com/user-attachments/assets/fa412b3f-b196-4e91-a466-5e89810f2c3c)
+
+## View All Course Information.
+![11](https://github.com/user-attachments/assets/269371bf-2545-4808-ad4f-6faff8b8a5b0)
+
+## View All Daily Log Information.
+![12](https://github.com/user-attachments/assets/85943bb8-ddb9-4d5e-9563-c468593820a5)
+
+## Update Current Exercise Information.
+![13](https://github.com/user-attachments/assets/0c08283b-ba55-4c91-a247-ae3075e87e40)
+
+## Line Graph and Measurement Data.
+![14](https://github.com/user-attachments/assets/98641d1c-f270-4137-ad27-f49774861825)
+
+
 
 
